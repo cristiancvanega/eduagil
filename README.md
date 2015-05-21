@@ -8,6 +8,8 @@ provided by the [RailsApps Project](http://railsapps.github.io/).
 
 Rails Composer is open source and supported by subscribers. Please join RailsApps to support development of Rails Composer.
 
+This project is at an early stage.
+
 Problems? Issues?
 -----------
 
@@ -39,12 +41,29 @@ Issues
 
 Similar Projects
 ----------------
+https://github.com/traprajith/open-school-CE
+
 
 Contributing
 ------------
+Carlos Cuesta Iglesias
 
 Credits
 -------
+Carlos Cuesta Iglesias
 
 License
 -------
+The final target of the project is to manage the schools.
+    Copyright (Eduagil) <2015>  <Cristian Castro Vanegas>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
